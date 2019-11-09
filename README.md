@@ -23,3 +23,10 @@ void myFastestMeanFilter(IplImage * src, IplImage * dst, int k)
 ```
 입력 그림의 file_path를 입력 받고, 또한 k를 입력 받으면 필터링 된 이미지가 출력
 ```
+
+### 버그 및 기능 요청
+
+**양재연**
+
+- [**@reyeon1209**](https://github.com/reyeon1209)   
+- <reyeon5368@naver.com>

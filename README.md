@@ -1,4 +1,4 @@
-# Mean-Filter
+# Mean_Filter
 
 ### 주제
 ```
